@@ -17,7 +17,7 @@ Example3:Password3
 
 Once you have your accounts added, hold TAB while in game for the UI.
 
-# Todo: 
+# Todo
 
 - [ ] Auto TOS accept
 - [ ] Optimisations when clicking elements
