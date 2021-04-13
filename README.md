@@ -21,5 +21,6 @@ Once you have your accounts added, hold TAB while in game for the UI.
 
 - [ ] Auto TOS accept
 - [ ] Optimisations when clicking elements
+- [ ] Support passwords with `:` in them
 
-- Note: it may be more efficient to find an ingame method to call rather than using the UI, however, this may break between updates without proper XRef scanning and I have been using OB2 recently so this is the approach I thought of first. 
+- Note: it may be more efficient to find an ingame method to call rather than using the UI, however, this may break between updates without proper XRef scanning and I have been using [OB2](https://openbullet.dev/) recently so this is the approach I thought of first. 
